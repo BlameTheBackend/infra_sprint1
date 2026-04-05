@@ -1,0 +1,5 @@
+IP: 158.160.236.106;
+name_taski: https://yandexserverlab.sytes.net;
+name_kittygram: https://yandexserver.duckdns.org;
+login: Alex;
+password: Random123456;
